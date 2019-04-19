@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01fa4a43-6338-47b0-827f-2dbdae9926ea" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mygit$setting.coverage" NAME="setting Coverage Results" MODIFIED="1554780336629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Config" />
+    <SUITE FILE_PATH="coverage/mygit$LogHandler.coverage" NAME="LogHandler Coverage Results" MODIFIED="1554781949839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Util" />
+    <SUITE FILE_PATH="coverage/mygit$utilClass.coverage" NAME="utilClass Coverage Results" MODIFIED="1554781964215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Util" />
+    <SUITE FILE_PATH="coverage/mygit$daysdata.coverage" NAME="daysdata Coverage Results" MODIFIED="1544492406712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
+    <SUITE FILE_PATH="coverage/mygit$utilFunction.coverage" NAME="utilFunction Coverage Results" MODIFIED="1554782027468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Util" />
+    <SUITE FILE_PATH="coverage/mygit$ProxyManager.coverage" NAME="ProxyManager Coverage Results" MODIFIED="1554782136079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Manager" />
+    <SUITE FILE_PATH="coverage/mygit$fail_main.coverage" NAME="fail_main Coverage Results" MODIFIED="1555379081366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
+    <SUITE FILE_PATH="coverage/mygit$copoun_stock.coverage" NAME="copoun stock Coverage Results" MODIFIED="1555640262227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
+    <SUITE FILE_PATH="coverage/mygit$EnvUtil.coverage" NAME="EnvUtil Coverage Results" MODIFIED="1554781936288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Util" />
+    <SUITE FILE_PATH="coverage/mygit$zhuge.coverage" NAME="zhuge Coverage Results" MODIFIED="1555481905255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
+    <SUITE FILE_PATH="coverage/mygit$WebRequest.coverage" NAME="WebRequest Coverage Results" MODIFIED="1554782040085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Util" />
+    <SUITE FILE_PATH="coverage/mygit$invest_coupon.coverage" NAME="invest_coupon Coverage Results" MODIFIED="1555557075947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
+    <SUITE FILE_PATH="coverage/mygit$dataConnect.coverage" NAME="dataConnect Coverage Results" MODIFIED="1555465483446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/common" />
+    <SUITE FILE_PATH="coverage/mygit$main.coverage" NAME="main Coverage Results" MODIFIED="1554791580167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Run" />
+    <SUITE FILE_PATH="coverage/mygit$io.coverage" NAME="io Coverage Results" MODIFIED="1554978199040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
+    <SUITE FILE_PATH="coverage/mygit$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1554805894537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
+    <SUITE FILE_PATH="coverage/mygit$memberbase.coverage" NAME="memberbase Coverage Results" MODIFIED="1555325560552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
+    <SUITE FILE_PATH="coverage/mygit$date.coverage" NAME="date Coverage Results" MODIFIED="1544362289701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/sjy未整理/华生基因——G/python_exercise" />
+    <SUITE FILE_PATH="coverage/mygit$ProxyRefreshSchedule.coverage" NAME="ProxyRefreshSchedule Coverage Results" MODIFIED="1554782299443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Schedule" />
+    <SUITE FILE_PATH="coverage/mygit$ProxyApi.coverage" NAME="ProxyApi Coverage Results" MODIFIED="1554792122392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Api" />
+    <SUITE FILE_PATH="coverage/mygit$ConfigGetter.coverage" NAME="ConfigGetter Coverage Results" MODIFIED="1554781623206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/Config" />
+    <SUITE FILE_PATH="coverage/mygit$DbClient.coverage" NAME="DbClient Coverage Results" MODIFIED="1554781910323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy_pool-master/DB" />
+    <SUITE FILE_PATH="coverage/mygit$request.coverage" NAME="request Coverage Results" MODIFIED="1555378804779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LanguageParticiple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/LanguageParticiple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="60" column="63" selection-start-line="55" selection-start-column="4" selection-end-line="60" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+              <folding>
+                <element signature="e#20#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fail_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/fail_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="60" column="47" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="memberbase.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/memberbase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="memberMatchBusiness.py" pinned="false" current-in-tab="false">
+        <entry file="file://D:/svn/Jenkins/tasks/memberMatchBusiness.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="29" />
+              <folding>
+                <element signature="e#39#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="invest_coupon.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/invest_coupon.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="45" column="49" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="copoun stock.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/copoun stock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhuge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/zhuge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataConnect.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cognos_tasks/common/dataConnect.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2565">
+              <caret line="141" column="16" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="16" />
+              <folding>
+                <element signature="e#69#83#0" expanded="true" />
+                <element signature="e#4315#8710#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sConfigPath</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/daysdata.py" />
+        <option value="$PROJECT_DIR$/proxy_pool-master/Run/main.py" />
+        <option value="$PROJECT_DIR$/proxy_pool-master/Config/setting.py" />
+        <option value="$PROJECT_DIR$/proxy_pool-master/Config/ConfigGetter.py" />
+        <option value="$PROJECT_DIR$/proxy_pool-master/Manager/ProxyManager.py" />
+        <option value="$PROJECT_DIR$/proxy_pool-master/DB/DbClient.py" />
+        <option value="$PROJECT_DIR$/proxy_pool-master/Util/utilFunction.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/main.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/__init__.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/arima.py" />
+        <option value="D:/svn/Jenkins/tasks/memberMatchBusiness.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/io.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/request.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/fail_main.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/memberbase.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/common/dataConnect.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/zhuge.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/invest_coupon.py" />
+        <option value="$PROJECT_DIR$/cognos_tasks/tasks/copoun stock.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mygit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygit" type="462c0819:PsiDirectoryNode" />
+              <item name="cognos_tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygit" type="462c0819:PsiDirectoryNode" />
+              <item name="cognos_tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mygit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mygit" type="462c0819:PsiDirectoryNode" />
+              <item name="cognos_tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.copoun stock">
+    <configuration name="copoun stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mygit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cognos_tasks/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cognos_tasks/tasks/copoun stock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dataConnect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mygit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cognos_tasks/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cognos_tasks/common/dataConnect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fail_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mygit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cognos_tasks/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cognos_tasks/tasks/fail_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="invest_coupon" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mygit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cognos_tasks/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cognos_tasks/tasks/invest_coupon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="zhuge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mygit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cognos_tasks/tasks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cognos_tasks/tasks/zhuge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.fail_main" />
+      <item itemvalue="Python.invest_coupon" />
+      <item itemvalue="Python.zhuge" />
+      <item itemvalue="Python.dataConnect" />
+      <item itemvalue="Python.copoun stock" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.copoun stock" />
+        <item itemvalue="Python.invest_coupon" />
+        <item itemvalue="Python.zhuge" />
+        <item itemvalue="Python.dataConnect" />
+        <item itemvalue="Python.fail_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01fa4a43-6338-47b0-827f-2dbdae9926ea" name="Default" comment="" />
+      <created>1544354423705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544354423705</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50606304" side_tool="true" weight="0.53488374" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4995958" weight="0.3297491" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49393696" visible="true" weight="0.38709676" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24656427" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4995958" weight="0.3297491" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2271625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49393696" weight="0.5358423" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50606304" side_tool="true" visible="true" weight="0.53488374" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4995958" weight="0.3297491" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4995958" weight="0.3297491" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/ppt/ppt-Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2983">
+          <caret line="157" column="65" lean-forward="true" selection-start-line="157" selection-start-column="53" selection-end-line="157" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/fail_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/LanguageParticiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="60" column="63" selection-start-line="55" selection-start-column="4" selection-end-line="60" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/sjy未整理/华生基因——G/python_exercise/date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/LanguageParticiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="60" column="63" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="60" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/sjy未整理/华生基因——G/python_exercise/date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/daysdata.py" />
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/LanguageParticiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/sjy未整理/华生基因——G/python_exercise/date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/daysdata.py" />
+    <entry file="file://E:/sjy未整理/华生基因——G/python_exercise/dcw.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/sjy未整理/华生基因——G/python_exercise/ppt_maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-797" />
+      </provider>
+    </entry>
+    <entry file="file://E:/sjy未整理/华生基因——G/python_exercise/wechatmember.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627" />
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/我所写的python小程序/会员概况可视化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4902" />
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/我所写的python小程序/两表合并.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/LanguageParticiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="60" column="63" selection-start-line="55" selection-start-column="4" selection-end-line="60" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/sjy未整理/华生基因——G/python_exercise/date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/daysdata.py" />
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Util/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ppt/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Config/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Config/ConfigGetter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Util/EnvUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Util/LogHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="91" column="24" lean-forward="true" selection-start-line="91" selection-start-column="24" selection-end-line="91" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Util/utilClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-417">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Util/utilFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Util/WebRequest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/DB/DbClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Manager/ProxyManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-950">
+          <caret line="16" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Schedule/ProxyRefreshSchedule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/main.py" />
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Run/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Api/ProxyApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/git/cognos_tasks/do_everyday.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/softwareInstall/Anaconda/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="336" selection-start-line="336" selection-end-line="336" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/我所写的python小程序/exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://E:/sjy未整理/华生基因——G/python_exercise/operate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+          <folding>
+            <element signature="e#20#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/arima.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ppt/ppt-Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="96" column="26" lean-forward="true" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/common/dataConnect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="141" column="16" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="16" />
+          <folding>
+            <element signature="e#69#83#0" expanded="true" />
+            <element signature="e#4315#8710#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/svn/Jenkins/tasks/memberMatchBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="e#39#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/zhuge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/fail_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="47" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/invest_coupon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="45" column="49" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/memberbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/copoun stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
