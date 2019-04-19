@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01fa4a43-6338-47b0-827f-2dbdae9926ea" name="Default" comment="" />
+    <list default="true" id="01fa4a43-6338-47b0-827f-2dbdae9926ea" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,102 +37,7 @@
     <SUITE FILE_PATH="coverage/mygit$request.coverage" NAME="request Coverage Results" MODIFIED="1555378804779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cognos_tasks/tasks" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LanguageParticiple.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/LanguageParticiple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
-              <caret line="60" column="63" selection-start-line="55" selection-start-column="4" selection-end-line="60" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/request.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-              <folding>
-                <element signature="e#20#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fail_main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/fail_main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="60" column="47" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="memberbase.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/memberbase.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="memberMatchBusiness.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/svn/Jenkins/tasks/memberMatchBusiness.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="29" />
-              <folding>
-                <element signature="e#39#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="invest_coupon.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/invest_coupon.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="45" column="49" selection-end-line="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="copoun stock.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/copoun stock.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zhuge.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/zhuge.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dataConnect.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cognos_tasks/common/dataConnect.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2565">
-              <caret line="141" column="16" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="16" />
-              <folding>
-                <element signature="e#69#83#0" expanded="true" />
-                <element signature="e#4315#8710#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -225,7 +132,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/mygit - 副本" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
@@ -370,16 +277,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50606304" side_tool="true" weight="0.53488374" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4995958" weight="0.3297491" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49393696" visible="true" weight="0.38709676" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49393696" weight="0.38709676" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24656427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2506063" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -398,24 +304,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2271625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49393696" weight="0.5358423" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4995958" weight="0.3297491" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4995958" weight="0.3297491" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50606304" side_tool="true" visible="true" weight="0.53488374" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4995958" weight="0.3297491" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4995958" weight="0.3297491" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,13 +415,6 @@
     <entry file="file://E:/Python/我所写的python小程序/两表合并.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-285" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/LanguageParticiple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="60" column="63" selection-start-line="55" selection-start-column="4" selection-end-line="60" selection-end-column="63" />
-        </state>
       </provider>
     </entry>
     <entry file="file://E:/sjy未整理/华生基因——G/python_exercise/date.py">
@@ -657,16 +556,6 @@
         <state relative-caret-position="-171" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-          <folding>
-            <element signature="e#20#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/arima.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -685,37 +574,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2565">
           <caret line="141" column="16" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="16" />
-          <folding>
-            <element signature="e#69#83#0" expanded="true" />
-            <element signature="e#4315#8710#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/svn/Jenkins/tasks/memberMatchBusiness.py">
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/copoun stock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="29" />
-          <folding>
-            <element signature="e#39#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/zhuge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/fail_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="60" column="47" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="47" />
+        <state relative-caret-position="38">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
@@ -726,6 +591,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/zhuge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/svn/Jenkins/tasks/memberMatchBusiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/memberbase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
@@ -733,10 +612,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/copoun stock.py">
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/fail_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="254">
+          <caret line="60" column="47" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cognos_tasks/tasks/LanguageParticiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="60" column="63" selection-start-line="55" selection-start-column="4" selection-end-line="60" selection-end-column="63" />
         </state>
       </provider>
     </entry>
