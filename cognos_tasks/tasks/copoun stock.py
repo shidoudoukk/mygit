@@ -64,7 +64,7 @@ df_merge = pd.merge(df_investcou,df_coupon,
 
 
 file_name = '未进行旧券升级用户存量满1w用户明细.xlsx'
-df_merge.to_excel(outfile+file_name, index=False)
+#df_merge.to_excel(outfile+file_name, index=False)
 print('运行结束...')
 sqlCONN_1.CloseConn()
 sqlCONN_2.CloseConn()
