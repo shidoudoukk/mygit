@@ -25,10 +25,17 @@ sqlCONN_2 = db.clMySql(sConfigPath, 'default_activity', False)
 curdate = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime('%Y-%m-%d')
 print('昨天时间%s'%curdate)
 
-#获取有优惠券的userid
+#获取领取优惠券的userid
 sql_coupon = """SELECT s.userid
 FROM yooli_coupons_details s
-where s.code_type<20 AND TO_DAYS(s.createtime) >= TO_DAYS('2019-01-25')
+where s.code_type<20 and s.code_type!=19 AND TO_DAYS(s.createtime) >= TO_DAYS('2019-01-25') AND TO_DAYS(createtime)<= TO_DAYS('2019-04-21')
+GROUP BY s.userid"""
+
+
+#获取有优惠券的userid
+sql_coupon_ = """SELECT s.userid
+FROM yooli_coupons_details s
+where TO_DAYS(s.createtime) between TO_DAYS('2019-01-25') and TO_DAYS('2019-04-21')
 GROUP BY s.userid"""
 
 df_coupon = pd.read_sql(sql_coupon, sqlCONN_2.GetCONN())
